@@ -1,0 +1,5 @@
+/home/hellcat/plague/Program-files/clion-2019.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/hellcat/plague/work-bench/CppPro/Pro/Netvideo
+-- 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug

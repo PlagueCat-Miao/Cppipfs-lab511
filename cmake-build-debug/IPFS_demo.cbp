@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="IPFS_demo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\..\usr\local\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client-put">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client-put" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client-put"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client-put/fast">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client-put" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client-put/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 server"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server/fast">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 server/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client_rtmp_admin">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client_rtmp_admin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client_rtmp_admin"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client_rtmp_admin/fast">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client_rtmp_admin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client_rtmp_admin/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client-normal">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client-normal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client-normal"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client-normal/fast">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client-normal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client-normal/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client-get">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client-get" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client-get"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client-get/fast">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/client-get" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 client-get/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ForSUNSEV_IoTtest2">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/ForSUNSEV_IoTtest2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ForSUNSEV_IoTtest2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ForSUNSEV_IoTtest2/fast">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/ForSUNSEV_IoTtest2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ForSUNSEV_IoTtest2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rtmp_cam_client">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/rtmp_cam_client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rtmp_cam_client"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rtmp_cam_client/fast">
+				<Option output="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/rtmp_cam_client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rtmp_cam_client/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/client-get.cpp">
+			<Option target="client-get"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/client-normal.cpp">
+			<Option target="client-normal"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/client-normal.h">
+			<Option target="client-normal"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/client_rtmp_admin.cpp">
+			<Option target="client_rtmp_admin"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/clienttest.cpp">
+			<Option target="client-put"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/db/MySQL.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/db/MySQL.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/ffmpeg/ForSUNSEV_IoT.cpp">
+			<Option target="ForSUNSEV_IoTtest2"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/ffmpeg/RTMPParallel.cpp">
+			<Option target="client_rtmp_admin"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/ffmpeg/RTMPParallel.h">
+			<Option target="client_rtmp_admin"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/ipfs/IPFSCtrl.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/ipfs/IPFSCtrl.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/json/MsgFFmpeg.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/json/MsgFFmpeg.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/json/MsgIPFS.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/json/MsgIPFS.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/json/MsgMove.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/json/MsgMove.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/logic/MsgHandler.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/logic/MsgHandler.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/ByteArray.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/ByteArray.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/CJsonObject.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/CJsonObject.hpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/ClientState.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/ClientState.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/MsgBase.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/MsgBase.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/NetManager.cpp">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/NetManager.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/cJSON.c">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/cJSON.h">
+			<Option target="client-put"/>
+			<Option target="server"/>
+			<Option target="client_rtmp_admin"/>
+			<Option target="client-normal"/>
+			<Option target="client-get"/>
+			<Option target="ForSUNSEV_IoTtest2"/>
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/rtmp_cam_client.cpp">
+			<Option target="rtmp_cam_client"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/severmain.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/../../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/../../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/../../../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/../../../../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

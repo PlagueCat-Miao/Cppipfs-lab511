@@ -1,0 +1,12 @@
+{
+	"ID": "QmbJK1Vf3DMpyanbK7NUu2ZSVRdcpzsLkuvQAphEGhHiVf",
+	"PublicKey": "CAASpgIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/L38XlsfNc3qzotKQ1++A1J10llQkk9ZYws9iEdvBYtAFuxi3DiWqJLQklK47GeV8Q3LcrfjYhVKX19r8vKuS+0Hm0gC1KnSVMUdlQHmoibkZGu311BCzf+4OdqEAdOC4h9uhyI0++zGd3k04d/rJI+dCaRiDgLByN8RWODE78/WOEjpvLZYEN2CtCoRgyFLH/VQ9xziFkCe74A+sM7ImM2sP+BqZmzJR0SGVTzK/uVwZX0hsq8JAYPXuS1Z6+JTnd5yFsJZiEAQIQmwTovdFxHwDBIJH2YkpnTpzToz6XuCI/7gteASuadkMxIb2fwOAfV8zUs7Swfkpm+rbG+h/AgMBAAE=",
+	"Addresses": [
+		"/ip4/127.0.0.1/tcp/4001/ipfs/QmbJK1Vf3DMpyanbK7NUu2ZSVRdcpzsLkuvQAphEGhHiVf",
+		"/ip4/172.24.54.39/tcp/4001/ipfs/QmbJK1Vf3DMpyanbK7NUu2ZSVRdcpzsLkuvQAphEGhHiVf",
+		"/ip4/172.17.0.1/tcp/4001/ipfs/QmbJK1Vf3DMpyanbK7NUu2ZSVRdcpzsLkuvQAphEGhHiVf"
+	],
+	"AgentVersion": "go-ipfs/0.4.21/",
+	"ProtocolVersion": "ipfs/0.1.0"
+}
+

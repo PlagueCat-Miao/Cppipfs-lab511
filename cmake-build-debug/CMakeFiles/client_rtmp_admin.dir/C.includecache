@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/cJSON.c
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+float.h
+-
+limits.h
+-
+ctype.h
+-
+cJSON.h
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/cJSON.h
+
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/net/cJSON.h
+

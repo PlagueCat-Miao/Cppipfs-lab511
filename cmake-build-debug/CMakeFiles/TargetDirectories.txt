@@ -1,0 +1,9 @@
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/client-put.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/server.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/client_rtmp_admin.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/client-normal.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/client-get.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/ForSUNSEV_IoTtest2.dir
+/home/hellcat/plague/work-bench/CppPro/Pro/Netvideo/cmake-build-debug/CMakeFiles/rtmp_cam_client.dir
